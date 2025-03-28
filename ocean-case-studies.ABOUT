@@ -59,6 +59,8 @@ about_resource: ./Case_studies/UNOD/Ch09/
 about_resource: ./Case_studies/UNOD/Ch10/
 about_resource: ./Case_studies/Water_quality/Algal_blooms/Algal_blooms_baltic_2023.ipynb
 about_resource: ./Case_studies/Water_quality/S3B_OL_1_EFR____20220703T093100_20220703T093400_20220704T142637_0179_067_364_1980_MAR_O_NT_002_MPH.nc
+about_resource: ./Case_studies/Water_quality/OLCI_MphChl_subset.xml
+
 about_resource: ./img/Altimetry_naming.png
 about_resource: ./img/Altimetry_orbits.png
 about_resource: ./img/Cyanobacteria_bloom.png
