@@ -30,7 +30,7 @@
             <sourceProduct refid="Subset"/>
         </sources>
         <parameters>
-            <sourceBandNames>Oa08_radiance,Oa10_radiance,Oa11_radiance,Oa12_radiance,Oa17_radiance</sourceBandNames>
+            <sourceBandNames>Oa08_radiance,Oa12_radiance,Oa17_radiance</sourceBandNames>
             <computeRBrr>true</computeRBrr>
         </parameters>
     </node>
