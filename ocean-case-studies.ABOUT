@@ -10,6 +10,7 @@ home_url: https://gitlab.eumetsat.int/eumetlab/ocean/applications/ocean-case-stu
 license_text_file: LICENSE.txt
  
 # File(s) associated to this component
+
 about_resource: ./Case_studies/Acq_syn/Altimetry_cycles_orbits/Altimetry_orbit_cycle_selection.ipynb
 about_resource: ./Case_studies/Acq_syn/Automated_downloads/Automated_downloads.ipynb
 about_resource: ./Case_studies/Acq_syn/Cruise_tracks/Cruise_tracker.ipynb
@@ -28,9 +29,14 @@ about_resource: ./Case_studies/Maritime_safety/Cyclone_intensification/Tropical_
 about_resource: ./Case_studies/Ocean_biogeochemistry/Coming_soon.md
 about_resource: ./Case_studies/Ocean_dynamics/Agulhas_biophysical/Coming_soon.md
 about_resource: ./Case_studies/Ocean_dynamics/Alboran_gyre_variability/Coming_soon.md
-about_resource: ./Case_studies/UNOD/Ch01/
+about_resource: ./Case_studies/UNOD/Ch01/Sargassum/Sargassum_AFAI.ipynb
+about_resource: ./Case_studies/UNOD/Ch01/Sargassum/SNAP_graphs/SNAP_GPT_graph_OLCI_L1B_subset_Rrc.xml
+about_resource: ./Case_studies/UNOD/Ch01/Sargassum/SNAP_graphs/SNAP_GPT_graph_OLCI_L2_subset_flags.xml
 about_resource: ./Case_studies/UNOD/Ch02/MHW_reefs/MHW_intensification_coral_reef_health.ipynb
 about_resource: ./Case_studies/UNOD/Ch02/Algal_blooms/Algal_blooms_summer_2024.ipynb
+about_resource: ./Case_studies/UNOD/Ch02/Socal_blooms
+about_resource: ./Case_studies/UNOD/Ch02/Socal_blooms/SNAP_graphs/SNAP_GPT_graph_OLCI_L1B_subset_Rrc.xml
+about_resource: ./Case_studies/UNOD/Ch02/Socal_blooms/SNAP_graphs/SNAP_GPT_graph_OLCI_L2_subset_flags.xml
 about_resource: ./Case_studies/UNOD/Ch03/Deoxygenation_benguela/Deoxygenation_benguela.ipynb
 about_resource: ./Case_studies/UNOD/Ch04/
 about_resource: ./Case_studies/UNOD/Ch05/ENSO_evolution_2023/ENSO_altimetry_hovmoller.ipynb
@@ -60,20 +66,21 @@ about_resource: ./Case_studies/UNOD/Ch10/
 about_resource: ./Case_studies/Water_quality/Algal_blooms/Algal_blooms_baltic_2023.ipynb
 about_resource: ./Case_studies/Water_quality/S3B_OL_1_EFR____20220703T093100_20220703T093400_20220704T142637_0179_067_364_1980_MAR_O_NT_002_MPH.nc
 about_resource: ./Case_studies/Water_quality/OLCI_MphChl_subset.xml
-
 about_resource: ./img/Altimetry_naming.png
 about_resource: ./img/Altimetry_orbits.png
 about_resource: ./img/Cyanobacteria_bloom.png
-about_resource: ./img/Matthews_et_al_2020.png
 about_resource: ./img/MSL_regional_trends.png
+about_resource: ./img/Matthews_et_al_2020.png
 about_resource: ./img/OLL1EFR_L1B_North_Sea.png
+about_resource: ./img/Pseudo_nitzschia_bloom.png
 about_resource: ./img/RightsLink_Printable_License.pdf
 about_resource: ./img/SNAP_MPH.png
+about_resource: ./img/Sargassum_caribbean.png
 about_resource: ./img/TS_Panel1.png
 about_resource: ./img/TS_Panel2.png
 about_resource: ./img/TS_Panel3.png
-about_resource: ./img/Waveforms.png
 about_resource: ./img/WEkEO_show_api_SLSTR.png
+about_resource: ./img/Waveforms.png
 about_resource: ./img/thumbs/Algal_blooms_baltic_2023_thumb.png
 about_resource: ./img/thumbs/Algal_blooms_summer_2024_thumb.png
 about_resource: ./img/thumbs/Altimetry_orbit_cycle_selection_thumb.png
@@ -90,16 +97,18 @@ about_resource: ./img/thumbs/Pan_collection_cubes_thumb.png
 about_resource: ./img/thumbs/Quantifying_PIC_POC_thumb.png
 about_resource: ./img/thumbs/SLR_with_S6_thumb.png
 about_resource: ./img/thumbs/SWH_storms_2023_thumb.png
+about_resource: ./img/thumbs/Sargassum_AFAI_thumb.png
+about_resource: ./img/thumbs/Socal_blooms_thumb.png
 about_resource: ./img/thumbs/Tropical_cyclones_altimetry_thumb.png
+about_resource: ./AUTHORS.txt
 about_resource: ./CHANGELOG
 about_resource: ./CONTRIBUTING.md
-about_resource: ./AUTHORS.txt
 about_resource: ./Index.ipynb
 about_resource: ./LICENSE.txt
 about_resource: ./README.md
+about_resource: ./apt.txt
 about_resource: ./environment.yml
 about_resource: ./ocean-case-studies.ABOUT
-about_resource: ./apt.txt
 
 # Notes:
 
